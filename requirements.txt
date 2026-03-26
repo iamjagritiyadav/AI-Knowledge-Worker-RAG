@@ -1,0 +1,7 @@
+streamlit
+chromadb
+litellm
+python-dotenv
+tenacity
+pydantic
+pysqlite3-binary
