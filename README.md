@@ -1,4 +1,4 @@
-# 🛡️ Insurellm AI: Enterprise RAG Knowledge Assistant
+# Insurellm AI: Enterprise RAG Knowledge Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
